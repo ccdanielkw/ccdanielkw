@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+https://img.shields.io/badge/-Lua-00bfff?style=flat-square&logo=lua&logoColor=fff
 <!--
 **ccdanielkw/ccdanielkw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

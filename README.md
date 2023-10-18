@@ -1,5 +1,5 @@
 
-[![](https://img.shields.io/badge/-Lua-00bfff?style=flat-square&logo=lua&logoColor=fff)](https://fr.wikipedia.org/wiki/Garry%27s_Mod)
+[![](https://img.shields.io/badge/-Lua-000080?style=flat-square&logo=lua&logoColor=fff)](https://fr.wikipedia.org/wiki/Garry%27s_Mod)
 
 <!--
 **ccdanielkw/ccdanielkw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

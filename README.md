@@ -11,7 +11,3 @@
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-0077BB?style=flat-rounded&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/OS-Windows-blue?style=flat-rounded&logo=windows)](https://www.microsoft.com/fr-fr/windows?r=1)
 [![](https://img.shields.io/badge/OS-macOS-darkgray?style=flat-rounded&logo=apple)](https://www.apple.com/)
-
-
-[![](https://img.shields.io/badge/.Daniel.%E2%80%8E%20-black?style=flat-rounded&logo=steam)](https://steamcommunity.com/profiles/76561198251749852/)
-[![](https://img.shields.io/badge/dkwcc%E2%80%8E%20-black?style=flat-rounded&logo=discord)](discordapp.com/users/239069764578836480)

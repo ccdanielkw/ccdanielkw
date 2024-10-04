@@ -13,7 +13,7 @@
 
 <br>
 
-## 🧰 Framework
+## 🧰 Frameworks
 <div>
 	<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />‎‎ ‎ ‎ ‎ 
 	<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
@@ -30,7 +30,7 @@
 
 <br>
 
-## 🌐 Environnement
+## 🌐 Environnements
 <div>
 	<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />‎‎ ‎ ‎ ‎ 
 	<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />‎‎ ‎ ‎ ‎ 

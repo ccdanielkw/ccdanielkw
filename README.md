@@ -40,17 +40,6 @@
 
 <br>
 
-## 🖼️ IDE
-<div>
-	<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> ‎ ‎ ‎ 
-	<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /> ‎ ‎ ‎ 
-	<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" /> ‎ ‎ ‎ 
-	<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" /> ‎ ‎ ‎ 
-	<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
-</div>
-
-<br>
-
 ## 🔧 Outils
 <div>
 	<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />

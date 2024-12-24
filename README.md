@@ -1,45 +1,20 @@
+## 📚 Langages de Programmation 
 
-## 📚 Langages
-<div style="display: flex; flex-direction: row; gap: 100px;">
-	<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />‎‎ ‎ ‎ ‎ 
-	<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />‎‎ ‎ ‎ ‎ 
-	<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />‎‎ ‎ ‎ ‎ 
-	<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />‎‎ ‎ ‎ ‎ 
-	<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />‎‎ ‎ ‎ ‎ 
-	<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />‎‎ ‎ ‎ ‎ 
-	<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</div>
+[![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=FFDD55)](https://www.python.org/)
+[![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
+[![](https://img.shields.io/badge/-TypeScript-006FC5?style=flat-square&logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
 
-<br>
 
-## 🧰 Frameworks
-<div>
-	<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />‎‎ ‎ ‎ ‎ 
-	<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />‎‎ ‎ ‎ ‎ 
-	<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-</div>
-
-<br>
+## 🧰 Frameworks et Librairies
+[![](https://img.shields.io/badge/-Django-103E2E?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=fff)](https://nextjs.org/)
+[![](https://img.shields.io/badge/-TailwindCSS-35B3EC?style=flat-square&logo=tailwindcss&logoColor=fff)](https://tailwindcss.com/)
+[![](https://img.shields.io/badge/-React-181818?style=flat-square&logo=react&logoColor=00D7FE)](https://fr.react.dev/)
 
 ## 🗃️ Bases de données
-<div>
-	<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />‎‎ ‎ ‎ ‎ 
-	<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />‎‎ ‎ ‎ ‎ 
-	<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
-</div>
 
-<br>
-
-## 🌐 Environnements
-<div>
-	<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />‎‎ ‎ ‎ ‎ 
-	<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />‎‎ ‎ ‎ ‎ 
-	<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-</div>
-
-<br>
-
-## 🔧 Outils
-<div>
-	<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-</div>
+[![](https://img.shields.io/badge/-MySQL-00618A?style=flat-square&logo=mysql&logoColor=fff)](https://www.mysql.com/fr/)
+[![](https://img.shields.io/badge/-Postman-FD6C35?style=flat-square&logo=postman&logoColor=fff)](https://www.postman.com/)
+[![](https://img.shields.io/badge/-Figma-1E1E1E?style=flat-square&logo=figma&logoColor=fff)](https://www.postman.com/)
+[![](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=fff)](https://git-scm.com/)

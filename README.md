@@ -12,7 +12,7 @@
 [![](https://img.shields.io/badge/-TailwindCSS-35B3EC?style=flat-square&logo=tailwindcss&logoColor=fff)](https://tailwindcss.com/)
 [![](https://img.shields.io/badge/-React-181818?style=flat-square&logo=react&logoColor=00D7FE)](https://fr.react.dev/)
 
-## 🗃️ Bases de données
+## 🗃️ Bases de données et Outils
 
 [![](https://img.shields.io/badge/-MySQL-00618A?style=flat-square&logo=mysql&logoColor=fff)](https://www.mysql.com/fr/)
 [![](https://img.shields.io/badge/-Prisma-2C3748?style=flat-square&logo=prisma&logoColor=fff)](https://www.prisma.io/)

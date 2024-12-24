@@ -15,6 +15,7 @@
 ## 🗃️ Bases de données
 
 [![](https://img.shields.io/badge/-MySQL-00618A?style=flat-square&logo=mysql&logoColor=fff)](https://www.mysql.com/fr/)
+[![](https://img.shields.io/badge/-Prisma-2C3748?style=flat-square&logo=prisma&logoColor=fff)](https://www.prisma.io/)
 [![](https://img.shields.io/badge/-Postman-FD6C35?style=flat-square&logo=postman&logoColor=fff)](https://www.postman.com/)
 [![](https://img.shields.io/badge/-Figma-1E1E1E?style=flat-square&logo=figma&logoColor=fff)](https://www.postman.com/)
 [![](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=fff)](https://git-scm.com/)

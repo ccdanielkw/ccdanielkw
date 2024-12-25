@@ -9,7 +9,7 @@
 ## 🧰 Frameworks et Librairies
 [![](https://img.shields.io/badge/-Django-103E2E?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=fff)](https://nextjs.org/)
-[![](https://img.shields.io/badge/-TailwindCSS-35B3EC?style=flat-square&logo=tailwindcss&logoColor=fff)](https://tailwindcss.com/)
+[![](https://img.shields.io/badge/-TailwindCSS-0B1120?style=flat-square&logo=tailwindcss&logoColor=38BDF8)](https://tailwindcss.com/)
 [![](https://img.shields.io/badge/-React-181818?style=flat-square&logo=react&logoColor=00D7FE)](https://fr.react.dev/)
 
 ## 🗃️ Bases de données et Outils
